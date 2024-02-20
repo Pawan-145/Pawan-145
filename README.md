@@ -1,8 +1,5 @@
-[![MasterHead]("C:\Users\Coding_cadet\Desktop\gifbackgro.gif")](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pawan Kumar Ray</h1>
 <h3 align="center">A passionate programmer from India</h3>
-
-<img align = "right" alt="coding" widht="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan-145&label=Profile%20views&color=0e75b6&style=flat" alt="pawan-145" /> </p>
 
