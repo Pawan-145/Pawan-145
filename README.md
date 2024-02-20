@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **backend frameworks**
 
-- 💬 Ask me about **Python,c, javascript, HTML, CSS, Firebase**
+- 💬 Ask me about **Python,flask,c, javascript, HTML, CSS, Firebase**
 
 - 📫 How to reach me **pawanwork145@gmail.com**
 
