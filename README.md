@@ -56,14 +56,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan-145&show_icons=true&locale=en&theme=radical" alt="Pawan's GitHub Stats" />
-</p>
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Pawan-145&theme=tokyonight)](https://github.com/your-username)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan-145&theme=radical" alt="Pawan's Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-145&layout=compact&theme=radical" alt="Top Languages" />
-</p>
