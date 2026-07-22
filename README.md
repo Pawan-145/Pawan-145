@@ -36,22 +36,8 @@
 ---
 
 ### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
-</p>
+ [![My Skills](https://skillicons.dev/icons?i=python,javascript,css,aws,azul,cpp,c,nodejs,docker,express,firebase,flask,github,linux,mongodb,netlify,npm,opencv,postman,powershell,react,regex,ros,sklearn,supabase,tailwind,tensorflow,ts,ubuntu,vercel,vite,vscode,yarn)](https://skillicons.dev)
+
 
 ---
 
