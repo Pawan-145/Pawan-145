@@ -56,10 +56,15 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan-145&theme=radical" alt="Pawan's Streak Stats" />
+  <a href="https://github.com/Pawan-145">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Pawan-145&theme=tokyonight" />
+  </a>
 </p>
 
-<img src="https://gitlyy.vercel.app/api/contribution?username=Pawan-145&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-145&theme=radical" alt="Pawan's Streak Stats" />
+</p>
+
+
 
