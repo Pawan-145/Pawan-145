@@ -56,7 +56,6 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Pawan-145&theme=tokyonight)](https://github.com/your-username)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan-145&theme=radical" alt="Pawan's Streak Stats" />
