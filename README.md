@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pawan Kumar Ray</h1>
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,I'm+Pawan+Kumar+Ray)](https://git.io/typing-svg)
+</h1>
 <h3 align="center">Python Developer | Automation & Systems | Exploring ML & Data Science</h3>
 
 <p align="center">
